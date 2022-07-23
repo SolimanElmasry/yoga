@@ -189,7 +189,7 @@ header nav ul li .bt:hover {
 .landing .left span {
   width: 350px;
   height: 350px;
-  background: url("../../img/landing.jpg");
+  background: url("../img/landing.jpg");
   background-size: cover;
   background-position: center;
   border-radius: 50%;
