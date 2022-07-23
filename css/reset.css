@@ -33,3 +33,6 @@ section{
 img{
     max-width: 100%;
 }
+p,li{
+    cursor:defult;
+}
